@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/StaySelect/static/css/main.409abf9d.css",
+    "main.js": "/StaySelect/static/js/main.f862c0e6.js",
+    "static/js/453.1b6cbde4.chunk.js": "/StaySelect/static/js/453.1b6cbde4.chunk.js",
+    "static/media/contact.jpeg": "/StaySelect/static/media/contact.99b12d8df8951203afc6.jpeg",
+    "static/media/welc.jpg": "/StaySelect/static/media/welc.3026fbe4d3ddcfa49da0.jpg",
+    "static/media/login.webp": "/StaySelect/static/media/login.daf96c8b4ef745a95ec8.webp",
+    "static/media/about.avif": "/StaySelect/static/media/about.0cea2e238773a32bc680.avif",
+    "index.html": "/StaySelect/index.html",
+    "main.409abf9d.css.map": "/StaySelect/static/css/main.409abf9d.css.map",
+    "main.f862c0e6.js.map": "/StaySelect/static/js/main.f862c0e6.js.map",
+    "453.1b6cbde4.chunk.js.map": "/StaySelect/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409abf9d.css",
+    "static/js/main.f862c0e6.js"
+  ]
+}
